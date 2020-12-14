@@ -14,4 +14,4 @@
 ![Link](https://github.com/nikita22rus/ProjectTililitsinVKR/raw/main/newplot.png)
 
 # По новым данным строим новый портфель -> Получаем большую доходность чем первоночально
-
+![Link](https://github.com/nikita22rus/ProjectTililitsinVKR/raw/main/PortfelRepfomance2.png)
